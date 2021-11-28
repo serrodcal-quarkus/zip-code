@@ -1,0 +1,2 @@
+INSERT INTO zipcode(zip, city, state, country, timezone) VALUES ('41015', 'Seville','Andalusia','Spain','GMT+1');
+INSERT INTO zipcode(zip, city, state, country, timezone) VALUES ('41010', 'Seville','Andalusia','Spain','GMT+1');
